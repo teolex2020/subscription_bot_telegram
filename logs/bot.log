@@ -1,0 +1,24 @@
+2025-03-14 00:46:11,658 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:46:11,839 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAESj2v4wknRDV-cHoaw4p6H-9DLYcdFAGM/getMe "HTTP/1.1 200 OK"
+2025-03-14 00:46:11,839 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:47:10,418 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:47:10,436 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:52:08,208 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:52:08,226 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:09:12,340 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:09:12,359 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:09:12,516 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAHVudj94burU9Uz814MoYFDOpiI9kyymdU/getMe "HTTP/1.1 200 OK"
+2025-03-14 11:09:12,517 - telegram.ext.Application - INFO - Application started
+2025-03-14 11:09:12,517 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:09:12,517 - bot.utils.logger - ERROR - ❌ Ошибка в основном цикле: Cannot close a running event loop
+2025-03-14 11:09:12,517 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-03-14 11:09:12,517 - telegram.ext.Application - INFO - Application.stop() complete
+[2025-03-14 19:47:39,082] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 19:47:39,091] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 19:47:39,091] INFO     | Start polling
+[2025-03-14 19:47:39,349] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 19:47:39,400] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 19:47:39,663] INFO     | Update id=223310427 is handled. Duration 263 ms by bot id=8158591815
+[2025-03-14 19:49:00,148] WARNING  | Received SIGINT signal
+[2025-03-14 19:49:00,152] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 19:49:00,152] INFO     | Polling stopped

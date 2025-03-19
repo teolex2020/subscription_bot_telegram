@@ -1,0 +1,427 @@
+2025-03-14 00:27:46,245 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:27:46,267 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:29:22,647 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:29:22,665 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:30:16,194 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:30:16,211 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:31:18,360 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:31:18,378 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:32:06,069 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:32:06,089 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:32:58,326 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:32:58,358 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:33:42,686 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:33:42,705 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:34:35,092 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:34:35,110 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:36:53,874 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:36:53,892 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:37:51,053 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:37:51,251 - httpx - INFO - HTTP Request: POST https://api.telegram.org/botY7669375511:AAESj2v4wknRDV-cHoaw4p6H-9DLYcdFAGM/getMe "HTTP/1.1 404 Not Found"
+2025-03-14 00:38:50,575 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:40:53,636 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:40:53,802 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAESj2v4wknRDV-cHoaw4p6H-9DLYcdFAGM/getMe "HTTP/1.1 200 OK"
+2025-03-14 00:40:53,803 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:44:28,127 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:44:28,365 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAESj2v4wknRDV-cHoaw4p6H-9DLYcdFAGM/getMe "HTTP/1.1 200 OK"
+2025-03-14 00:44:28,366 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:45:02,948 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:45:03,122 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAESj2v4wknRDV-cHoaw4p6H-9DLYcdFAGM/getMe "HTTP/1.1 200 OK"
+2025-03-14 00:45:03,122 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:48:01,930 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:48:01,949 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:52:14,066 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:52:14,083 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 00:52:55,461 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 00:52:55,479 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 10:55:03,776 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 10:55:03,801 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 10:56:13,012 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 10:56:13,042 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 10:56:13,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAESj2v4wknRDV-cHoaw4p6H-9DLYcdFAGM/getMe "HTTP/1.1 200 OK"
+2025-03-14 10:56:13,207 - telegram.ext.Application - INFO - Application started
+2025-03-14 10:56:13,207 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-03-14 10:57:23,690 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Application:7669375511:update_fetcher' coro=<Application._update_fetcher() done, defined at /Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/telegram/ext/_application.py:1175> wait_for=<Future cancelled> cb=[gather.<locals>._done_callback() at /Users/deleter81/.pyenv/versions/3.12.3/lib/python3.12/asyncio/tasks.py:767]>
+2025-03-14 10:59:12,099 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 10:59:12,118 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 10:59:12,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAESj2v4wknRDV-cHoaw4p6H-9DLYcdFAGM/getMe "HTTP/1.1 200 OK"
+2025-03-14 10:59:12,279 - telegram.ext.Application - INFO - Application started
+2025-03-14 10:59:12,279 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-03-14 11:00:54,091 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Application:7669375511:update_fetcher' coro=<Application._update_fetcher() done, defined at /Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/telegram/ext/_application.py:1175> wait_for=<Future cancelled> cb=[gather.<locals>._done_callback() at /Users/deleter81/.pyenv/versions/3.12.3/lib/python3.12/asyncio/tasks.py:767]>
+2025-03-14 11:06:00,944 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:06:00,963 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:06:04,441 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAHVudj94burU9Uz814MoYFDOpiI9kyymdU/getMe "HTTP/1.1 200 OK"
+2025-03-14 11:06:04,443 - telegram.ext.Application - INFO - Application started
+2025-03-14 11:06:04,444 - telegram.ext.Application - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
+2025-03-14 11:06:30,338 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Application:7669375511:update_fetcher' coro=<Application._update_fetcher() done, defined at /Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/telegram/ext/_application.py:1175> wait_for=<Future cancelled> cb=[gather.<locals>._done_callback() at /Users/deleter81/.pyenv/versions/3.12.3/lib/python3.12/asyncio/tasks.py:767]>
+2025-03-14 11:09:29,304 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:09:29,323 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:09:29,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAHVudj94burU9Uz814MoYFDOpiI9kyymdU/getMe "HTTP/1.1 200 OK"
+2025-03-14 11:09:29,459 - telegram.ext.Application - INFO - Application started
+2025-03-14 11:09:29,459 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:09:29,460 - bot.utils.logger - ERROR - ❌ Ошибка в основном цикле: Cannot close a running event loop
+2025-03-14 11:09:29,460 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-03-14 11:09:29,460 - telegram.ext.Application - INFO - Application.stop() complete
+2025-03-14 11:10:12,222 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:10:12,241 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:10:12,397 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAHVudj94burU9Uz814MoYFDOpiI9kyymdU/getMe "HTTP/1.1 200 OK"
+2025-03-14 11:10:12,397 - telegram.ext.Application - INFO - Application started
+2025-03-14 11:10:12,397 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:10:12,397 - bot.utils.logger - ERROR - ❌ Ошибка в основном цикле: Cannot close a running event loop
+2025-03-14 11:10:12,398 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-03-14 11:10:12,398 - telegram.ext.Application - INFO - Application.stop() complete
+2025-03-14 11:10:38,587 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:10:38,606 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:10:38,755 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7669375511:AAHVudj94burU9Uz814MoYFDOpiI9kyymdU/getMe "HTTP/1.1 200 OK"
+2025-03-14 11:10:38,755 - telegram.ext.Application - INFO - Application started
+2025-03-14 11:10:38,755 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:10:38,756 - bot.utils.logger - ERROR - ❌ Ошибка в основном цикле: Cannot close a running event loop
+2025-03-14 11:10:38,756 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-03-14 11:10:38,756 - telegram.ext.Application - INFO - Application.stop() complete
+2025-03-14 11:11:19,644 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:11:19,663 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:11:19,663 - bot.utils.logger - ERROR - ❌ Ошибка в основном цикле: Cannot close a running event loop
+2025-03-14 11:11:56,763 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:11:56,781 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:12:29,899 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:12:29,921 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:13:06,423 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:13:06,442 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:13:06,443 - bot.utils.logger - INFO - 🛑 Завершение работы бота...
+2025-03-14 11:13:43,323 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:13:43,341 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:13:43,341 - bot.utils.logger - INFO - 🛑 Завершение работы бота...
+2025-03-14 11:29:54 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:29:54 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:29:54 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:29:54 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:29:54 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:29:55 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:29:55 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:29:55 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:29:55 - bot.utils.logger - ERROR - ❌ Ошибка в основном цикле: Cannot close a running event loop
+2025-03-14 11:29:55 - bot.utils.logger - INFO - 🛑 Завершение работы бота...
+2025-03-14 11:30:42 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:30:42 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:30:42 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:30:42 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:30:42 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:30:42 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:30:42 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:30:42 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:38:05 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:38:05 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:38:05 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:38:05 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:38:05 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:38:05 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:38:05 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:38:05 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:40:37 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:40:37 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:40:37 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:40:37 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:40:37 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:40:37 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:40:37 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:40:38 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:43:41 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:43:41 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:43:41 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:43:41 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:43:41 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:43:41 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:43:41 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:43:41 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:44:45 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:44:45 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:44:45 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:44:45 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:44:45 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:44:45 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:44:45 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:44:45 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:46:32 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:46:32 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:46:32 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:46:32 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:46:32 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:46:32 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:46:32 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:47:22 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:47:22 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:47:22 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:47:22 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:47:22 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:47:22 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:47:22 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:48:49 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:48:49 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:48:49 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:48:49 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:48:49 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:48:50 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:48:50 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:52:41 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:52:41 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:52:41 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:52:41 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:52:41 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:52:41 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:52:41 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:55:17 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:55:17 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:55:17 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:55:17 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:55:17 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:55:17 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:55:17 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:55:17 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 11:58:43 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 11:58:43 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 11:58:43 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 11:58:43 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 11:58:43 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 11:58:43 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 11:58:43 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 11:58:43 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+2025-03-14 12:01:08 - bot.utils.logger - DEBUG - DEBUG - Это сообщение для отладки
+2025-03-14 12:01:08 - bot.utils.logger - INFO - INFO - Это информационное сообщение
+2025-03-14 12:01:08 - bot.utils.logger - WARNING - WARNING - Это предупреждение
+2025-03-14 12:01:08 - bot.utils.logger - ERROR - ERROR - Это сообщение об ошибке
+2025-03-14 12:01:08 - bot.utils.logger - CRITICAL - CRITICAL - Это критическая ошибка
+2025-03-14 12:01:09 - bot.utils.logger - INFO - 🚀 Запуск Telegram-бота...
+2025-03-14 12:01:09 - bot.utils.logger - INFO - ✅ Бот готов к работе!
+2025-03-14 12:01:09 - bot.utils.logger - INFO - 🚀 Ожидание команд...
+[2025-03-14 14:04:31,214] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:06:19,395] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:06:19,403] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:06:19,404] INFO     | Start polling
+[2025-03-14 14:06:19,557] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:06:19,615] INFO     | 📥 Получена команда /start от illia00o
+[2025-03-14 14:06:19,616] INFO     | 📥 Получена команда /start от illia00o
+[2025-03-14 14:06:19,617] INFO     | 📥 Получена команда /start от illia00o
+[2025-03-14 14:06:19,617] INFO     | 📥 Получена команда /start от illia00o
+[2025-03-14 14:06:19,965] INFO     | Update id=223310404 is handled. Duration 349 ms by bot id=8158591815
+[2025-03-14 14:06:19,967] INFO     | Update id=223310406 is handled. Duration 349 ms by bot id=8158591815
+[2025-03-14 14:06:19,990] INFO     | Update id=223310405 is handled. Duration 373 ms by bot id=8158591815
+[2025-03-14 14:06:20,023] INFO     | Update id=223310407 is handled. Duration 405 ms by bot id=8158591815
+[2025-03-14 14:06:35,096] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:06:35,198] INFO     | Update id=223310408 is handled. Duration 102 ms by bot id=8158591815
+[2025-03-14 14:07:21,996] WARNING  | Received SIGINT signal
+[2025-03-14 14:07:21,999] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:07:22,000] INFO     | Polling stopped
+[2025-03-14 14:09:53,650] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:09:53,659] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:09:53,659] INFO     | Start polling
+[2025-03-14 14:09:53,880] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:10:03,815] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:10:03,982] INFO     | Update id=223310409 is handled. Duration 167 ms by bot id=8158591815
+[2025-03-14 14:12:38,873] WARNING  | Received SIGINT signal
+[2025-03-14 14:12:38,875] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:12:38,875] INFO     | Polling stopped
+[2025-03-14 14:12:57,902] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:12:57,910] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:12:57,910] INFO     | Start polling
+[2025-03-14 14:12:58,053] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:13:08,151] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:13:08,357] INFO     | Update id=223310410 is handled. Duration 207 ms by bot id=8158591815
+[2025-03-14 14:13:18,097] WARNING  | Received SIGINT signal
+[2025-03-14 14:13:18,098] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:13:18,098] INFO     | Polling stopped
+[2025-03-14 14:15:10,754] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:15:10,762] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:15:10,762] INFO     | Start polling
+[2025-03-14 14:15:10,941] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:15:21,158] INFO     | 📥 Получена команда /start от illia00o
+[2025-03-14 14:15:21,333] INFO     | Update id=223310411 is handled. Duration 177 ms by bot id=8158591815
+[2025-03-14 14:15:23,143] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:15:23,211] INFO     | Update id=223310412 is handled. Duration 68 ms by bot id=8158591815
+[2025-03-14 14:15:50,422] WARNING  | Received SIGINT signal
+[2025-03-14 14:15:50,424] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:15:50,424] INFO     | Polling stopped
+[2025-03-14 14:22:41,862] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:22:41,870] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:22:41,870] INFO     | Start polling
+[2025-03-14 14:22:42,036] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:22:47,016] INFO     | 📥 Получена команда /start от illia00o
+[2025-03-14 14:22:47,198] INFO     | Update id=223310413 is handled. Duration 182 ms by bot id=8158591815
+[2025-03-14 14:22:48,649] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:22:48,708] INFO     | Update id=223310414 is handled. Duration 59 ms by bot id=8158591815
+[2025-03-14 14:23:28,596] WARNING  | Received SIGINT signal
+[2025-03-14 14:23:28,599] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:23:28,599] INFO     | Polling stopped
+[2025-03-14 14:24:47,894] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:24:47,902] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:24:47,902] INFO     | Start polling
+[2025-03-14 14:24:48,038] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:24:53,277] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:24:53,541] INFO     | Update id=223310415 is handled. Duration 263 ms by bot id=8158591815
+[2025-03-14 14:24:57,927] INFO     | Update id=223310416 is not handled. Duration 0 ms by bot id=8158591815
+[2025-03-14 14:24:57,927] ERROR    | Cause exception while process update id=223310416 by bot id=8158591815
+AttributeError: 'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/deleter81/PycharmProjects/telegram_subscription_bot/bot/handlers/messages.py", line 8, in handle_message
+    text = message.text.lower()
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'lower'
+[2025-03-14 14:25:11,584] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:25:11,670] INFO     | Update id=223310417 is handled. Duration 86 ms by bot id=8158591815
+[2025-03-14 14:25:20,538] WARNING  | Received SIGINT signal
+[2025-03-14 14:25:20,538] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:25:20,538] INFO     | Polling stopped
+[2025-03-14 14:29:29,924] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:29:29,932] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:29:29,932] INFO     | Start polling
+[2025-03-14 14:29:30,110] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:29:44,237] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:29:44,617] INFO     | Update id=223310418 is handled. Duration 380 ms by bot id=8158591815
+[2025-03-14 14:39:04,915] WARNING  | Received SIGINT signal
+[2025-03-14 14:39:04,917] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:39:04,917] INFO     | Polling stopped
+[2025-03-14 14:46:21,427] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:46:21,437] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:46:21,437] INFO     | Start polling
+[2025-03-14 14:46:21,614] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:46:29,205] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:46:29,386] INFO     | Update id=223310419 is handled. Duration 181 ms by bot id=8158591815
+[2025-03-14 14:46:34,539] WARNING  | Received SIGINT signal
+[2025-03-14 14:46:34,540] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:46:34,540] INFO     | Polling stopped
+[2025-03-14 14:54:04,461] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:55:18,118] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 14:55:18,126] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 14:55:18,126] INFO     | Start polling
+[2025-03-14 14:55:18,288] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:55:24,965] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 14:55:25,213] INFO     | Update id=223310420 is handled. Duration 247 ms by bot id=8158591815
+[2025-03-14 14:56:53,991] WARNING  | Received SIGINT signal
+[2025-03-14 14:56:53,993] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 14:56:53,993] INFO     | Polling stopped
+[2025-03-14 15:01:58,861] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 15:01:58,869] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 15:01:58,870] INFO     | Start polling
+[2025-03-14 15:01:59,413] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:02:14,658] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 15:02:14,843] INFO     | Update id=223310421 is handled. Duration 185 ms by bot id=8158591815
+[2025-03-14 15:02:52,692] WARNING  | Received SIGINT signal
+[2025-03-14 15:02:52,693] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:02:52,693] INFO     | Polling stopped
+[2025-03-14 15:10:06,862] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 15:10:06,870] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 15:10:06,870] INFO     | Start polling
+[2025-03-14 15:10:07,015] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:27:00,739] WARNING  | Received SIGINT signal
+[2025-03-14 15:27:00,741] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:27:00,741] INFO     | Polling stopped
+[2025-03-14 15:32:25,170] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 15:32:25,178] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 15:32:25,178] INFO     | Start polling
+[2025-03-14 15:32:25,492] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:32:32,691] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 15:32:33,165] INFO     | Update id=223310422 is handled. Duration 474 ms by bot id=8158591815
+[2025-03-14 15:32:49,639] WARNING  | Received SIGINT signal
+[2025-03-14 15:32:49,640] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:32:49,640] INFO     | Polling stopped
+[2025-03-14 15:44:44,215] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 15:44:44,223] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 15:44:44,223] INFO     | Start polling
+[2025-03-14 15:44:44,399] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:45:15,280] INFO     | 📥 Получена команда /start от None
+[2025-03-14 15:45:15,556] INFO     | Update id=223310423 is handled. Duration 276 ms by bot id=8158591815
+[2025-03-14 15:45:19,589] INFO     | ⚙️ Отримана команда /subscribe від None
+[2025-03-14 15:45:19,651] INFO     | Update id=223310424 is handled. Duration 62 ms by bot id=8158591815
+[2025-03-14 15:45:33,417] WARNING  | Received SIGINT signal
+[2025-03-14 15:45:33,417] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:45:33,417] INFO     | Polling stopped
+[2025-03-14 15:48:00,473] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 15:48:00,481] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 15:48:00,481] INFO     | Start polling
+[2025-03-14 15:48:00,620] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:48:04,148] INFO     | ⚙️ Отримана команда /subscribe від None
+[2025-03-14 15:48:04,332] INFO     | Update id=223310425 is handled. Duration 185 ms by bot id=8158591815
+[2025-03-14 15:48:14,921] WARNING  | Received SIGINT signal
+[2025-03-14 15:48:14,922] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 15:48:14,922] INFO     | Polling stopped
+[2025-03-14 19:40:23,837] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 19:40:23,845] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 19:40:23,845] INFO     | Start polling
+[2025-03-14 19:40:23,996] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 19:40:42,743] INFO     | ⚙️ Отримана команда /subscribe від None
+[2025-03-14 19:40:42,937] INFO     | Update id=223310426 is handled. Duration 194 ms by bot id=8158591815
+[2025-03-14 19:41:53,464] WARNING  | Received SIGINT signal
+[2025-03-14 19:41:53,465] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 19:41:53,466] INFO     | Polling stopped
+[2025-03-14 19:50:11,092] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 19:50:11,101] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 19:50:11,101] INFO     | Start polling
+[2025-03-14 19:50:11,252] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 19:50:16,387] INFO     | ⚙️ Отримана команда /subscribe від illia00o
+[2025-03-14 19:50:16,561] INFO     | Update id=223310428 is handled. Duration 174 ms by bot id=8158591815
+[2025-03-14 19:52:15,134] WARNING  | Received SIGINT signal
+[2025-03-14 19:52:15,136] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 19:52:15,136] INFO     | Polling stopped
+[2025-03-14 20:00:36,903] INFO     | 🚀 Запуск Telegram-бота...
+[2025-03-14 20:00:36,912] INFO     | ✅ Бот готовий до роботи!
+[2025-03-14 20:00:36,912] INFO     | Start polling
+[2025-03-14 20:00:37,064] INFO     | Run polling for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-14 20:01:32,322] INFO     | 📥 Получена команда /start от illia00o
+[2025-03-14 20:01:32,587] INFO     | Update id=223310429 is handled. Duration 265 ms by bot id=8158591815
+[2025-03-15 03:58:35,368] ERROR    | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-03-15 03:58:35,371] WARNING  | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8158591815)
+[2025-03-15 10:02:52,373] ERROR    | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-03-15 10:02:52,375] WARNING  | Sleep for 1.188507 seconds and try again... (tryings = 1, bot id = 8158591815)
+[2025-03-15 11:34:15,388] WARNING  | Received SIGINT signal
+[2025-03-15 11:34:15,391] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
+[2025-03-15 11:34:15,391] INFO     | Polling stopped
