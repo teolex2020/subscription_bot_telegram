@@ -425,3 +425,359 @@ AttributeError: 'NoneType' object has no attribute 'lower'
 [2025-03-15 11:34:15,388] WARNING  | Received SIGINT signal
 [2025-03-15 11:34:15,391] INFO     | Polling stopped for bot @pr_buy_bot id=8158591815 - 'premium bot'
 [2025-03-15 11:34:15,391] INFO     | Polling stopped
+[2025-03-20 10:07:11,859] INFO     | Start polling
+[2025-03-20 10:07:11,987] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 10:07:12,049] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:12,049] WARNING  | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7889364571)
+[2025-03-20 10:07:16,101] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:16,101] WARNING  | Sleep for 1.368614 seconds and try again... (tryings = 1, bot id = 7889364571)
+[2025-03-20 10:07:17,520] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:17,520] WARNING  | Sleep for 1.907698 seconds and try again... (tryings = 2, bot id = 7889364571)
+[2025-03-20 10:07:22,474] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:22,474] WARNING  | Sleep for 2.380541 seconds and try again... (tryings = 3, bot id = 7889364571)
+[2025-03-20 10:07:24,900] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:24,900] WARNING  | Sleep for 3.117773 seconds and try again... (tryings = 4, bot id = 7889364571)
+[2025-03-20 10:07:28,064] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:28,064] WARNING  | Sleep for 4.186649 seconds and try again... (tryings = 5, bot id = 7889364571)
+[2025-03-20 10:07:32,291] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:32,291] WARNING  | Sleep for 4.876900 seconds and try again... (tryings = 6, bot id = 7889364571)
+[2025-03-20 10:07:37,209] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:37,209] WARNING  | Sleep for 4.919017 seconds and try again... (tryings = 7, bot id = 7889364571)
+[2025-03-20 10:07:42,176] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:42,176] WARNING  | Sleep for 4.965673 seconds and try again... (tryings = 8, bot id = 7889364571)
+[2025-03-20 10:07:47,189] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:47,189] WARNING  | Sleep for 4.828145 seconds and try again... (tryings = 9, bot id = 7889364571)
+[2025-03-20 10:07:52,070] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:52,070] WARNING  | Sleep for 4.893747 seconds and try again... (tryings = 10, bot id = 7889364571)
+[2025-03-20 10:07:57,012] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:07:57,012] WARNING  | Sleep for 4.916981 seconds and try again... (tryings = 11, bot id = 7889364571)
+[2025-03-20 10:08:01,979] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:08:01,979] WARNING  | Sleep for 4.988721 seconds and try again... (tryings = 12, bot id = 7889364571)
+[2025-03-20 10:08:07,015] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:08:07,015] WARNING  | Sleep for 5.065526 seconds and try again... (tryings = 13, bot id = 7889364571)
+[2025-03-20 10:08:12,133] ERROR    | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[2025-03-20 10:08:12,134] WARNING  | Sleep for 4.873719 seconds and try again... (tryings = 14, bot id = 7889364571)
+[2025-03-20 10:08:16,079] INFO     | Polling stopped
+[2025-03-20 10:08:16,335] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 10:19:29,626] INFO     | Запуск Telegram-бота...
+[2025-03-20 10:19:29,937] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 10:19:29,939] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 10:19:29,939] INFO     | Бот готовий до роботи!
+[2025-03-20 10:19:29,939] INFO     | Start polling
+[2025-03-20 10:19:29,982] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 10:20:10,771] INFO     | 📥 Получена команда /start от Channel_News_PY
+[2025-03-20 10:20:10,922] INFO     | Update id=300195762 is handled. Duration 156 ms by bot id=7889364571
+[2025-03-20 10:20:35,169] INFO     | ⚙️ Отримана команда /subscribe від Channel_News_PY
+[2025-03-20 10:20:35,285] INFO     | Update id=300195763 is handled. Duration 125 ms by bot id=7889364571
+[2025-03-20 10:21:51,954] INFO     | Polling stopped
+[2025-03-20 10:21:52,212] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 10:21:52,213] INFO     | Завершення роботи бота...
+[2025-03-20 11:27:03,828] INFO     | Запуск Telegram-бота...
+[2025-03-20 11:27:04,126] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 11:27:04,127] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 11:27:04,127] INFO     | Бот готовий до роботи!
+[2025-03-20 11:27:04,127] INFO     | Start polling
+[2025-03-20 11:27:04,173] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 11:27:29,501] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 11:27:29,675] INFO     | Update id=300195765 is handled. Duration 172 ms by bot id=7889364571
+[2025-03-20 11:27:36,537] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 11:27:36,656] INFO     | Update id=300195766 is handled. Duration 125 ms by bot id=7889364571
+[2025-03-20 11:29:10,168] INFO     | Polling stopped
+[2025-03-20 11:29:10,422] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 11:29:10,423] INFO     | Завершення роботи бота...
+[2025-03-20 11:29:12,594] INFO     | Запуск Telegram-бота...
+[2025-03-20 11:29:12,895] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 11:29:12,897] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 11:29:12,897] INFO     | Бот готовий до роботи!
+[2025-03-20 11:29:12,897] INFO     | Start polling
+[2025-03-20 11:29:12,936] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 11:29:21,421] INFO     | Update id=300195767 is handled. Duration 250 ms by bot id=7889364571
+[2025-03-20 11:29:24,426] INFO     | Update id=300195768 is handled. Duration 140 ms by bot id=7889364571
+[2025-03-20 11:32:34,584] INFO     | Polling stopped
+[2025-03-20 11:32:34,845] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 11:32:34,846] INFO     | Завершення роботи бота...
+[2025-03-20 11:32:37,203] INFO     | Запуск Telegram-бота...
+[2025-03-20 11:32:37,497] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 11:32:37,499] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 11:32:37,499] INFO     | Бот готовий до роботи!
+[2025-03-20 11:32:37,499] INFO     | Start polling
+[2025-03-20 11:32:37,536] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 11:32:48,361] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 11:32:48,505] INFO     | Update id=300195769 is handled. Duration 140 ms by bot id=7889364571
+[2025-03-20 11:32:52,451] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 11:32:52,598] INFO     | Update id=300195770 is handled. Duration 155 ms by bot id=7889364571
+[2025-03-20 11:32:59,179] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 11:32:59,284] INFO     | Update id=300195771 is handled. Duration 109 ms by bot id=7889364571
+[2025-03-20 11:38:15,878] INFO     | Polling stopped
+[2025-03-20 11:38:16,135] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 11:38:16,136] INFO     | Завершення роботи бота...
+[2025-03-20 11:51:06,769] INFO     | Запуск Telegram-бота...
+[2025-03-20 11:51:07,068] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 11:51:07,209] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 11:51:07,210] INFO     | Бот готовий до роботи!
+[2025-03-20 11:51:07,210] INFO     | Start polling
+[2025-03-20 11:51:07,250] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 11:51:23,159] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 11:51:23,371] INFO     | Update id=300195773 is handled. Duration 202 ms by bot id=7889364571
+[2025-03-20 11:51:24,751] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 11:51:24,888] INFO     | Update id=300195774 is handled. Duration 125 ms by bot id=7889364571
+[2025-03-20 11:51:25,783] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 11:51:25,784] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 11:51:25,878] ERROR    | ❌ Помилка при відправленні інвойсу: Telegram server says - Bad Request: PAYMENT_PROVIDER_INVALID
+[2025-03-20 11:51:26,025] INFO     | Update id=300195775 is handled. Duration 233 ms by bot id=7889364571
+[2025-03-20 12:21:28,299] INFO     | Polling stopped
+[2025-03-20 12:21:28,569] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 12:21:28,570] INFO     | Завершення роботи бота...
+[2025-03-20 14:19:00,429] INFO     | Запуск Telegram-бота...
+[2025-03-20 14:19:00,730] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 14:19:00,733] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 14:19:00,736] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 14:19:00,736] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 14:19:00,736] INFO     | Scheduler started
+[2025-03-20 14:19:00,834] ERROR    | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002974A83B7D0>
+[2025-03-20 14:19:00,834] ERROR    | Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002974A83D4F0>, 449603.562)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000002974A83B7A0>
+[2025-03-20 14:28:59,202] INFO     | Запуск Telegram-бота...
+[2025-03-20 14:28:59,505] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 14:28:59,507] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 14:28:59,509] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 14:28:59,510] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 14:28:59,510] INFO     | Scheduler started
+[2025-03-20 14:28:59,510] INFO     | Планувальник задач запущено
+[2025-03-20 14:28:59,510] INFO     | Бот готовий до роботи!
+[2025-03-20 14:28:59,510] INFO     | Start polling
+[2025-03-20 14:28:59,549] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:29:37,126] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 14:29:37,383] INFO     | Update id=300195776 is handled. Duration 250 ms by bot id=7889364571
+[2025-03-20 14:29:39,971] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 14:29:40,250] INFO     | Update id=300195777 is handled. Duration 281 ms by bot id=7889364571
+[2025-03-20 14:29:43,948] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 14:29:43,948] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 14:29:43,948] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 14:29:43,951] ERROR    | ❌ Помилка при отриманні підписки для користувача 6984063145: (sqlite3.OperationalError) no such column: subscriptions.expiration_date
+[SQL: SELECT subscriptions.id, subscriptions.user_id, subscriptions.status, subscriptions.expiration_date, subscriptions.invite_link 
+FROM subscriptions 
+WHERE subscriptions.user_id = ?]
+[parameters: (6984063145,)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-03-20 14:29:43,952] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 14:29:43,952] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 14:29:44,036] ERROR    | ❌ Помилка при відправленні інвойсу: Telegram server says - Bad Request: PAYMENT_PROVIDER_INVALID
+[2025-03-20 14:29:44,179] INFO     | Update id=300195778 is handled. Duration 233 ms by bot id=7889364571
+[2025-03-20 14:30:37,727] INFO     | Polling stopped
+[2025-03-20 14:30:37,990] INFO     | Планувальник зупинено
+[2025-03-20 14:30:37,990] INFO     | Scheduler has been shut down
+[2025-03-20 14:30:37,990] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:30:37,991] INFO     | Завершення роботи бота...
+[2025-03-20 14:47:37,102] INFO     | Запуск Telegram-бота...
+[2025-03-20 14:47:37,400] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 14:47:37,403] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 14:47:37,405] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 14:47:37,406] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 14:47:37,406] INFO     | Scheduler started
+[2025-03-20 14:47:37,406] INFO     | Планувальник задач запущено
+[2025-03-20 14:47:37,406] INFO     | Бот готовий до роботи!
+[2025-03-20 14:47:37,406] INFO     | Start polling
+[2025-03-20 14:47:37,455] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:48:05,041] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 14:48:05,366] INFO     | Update id=300195779 is handled. Duration 327 ms by bot id=7889364571
+[2025-03-20 14:48:14,326] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 14:48:14,609] INFO     | Update id=300195780 is handled. Duration 296 ms by bot id=7889364571
+[2025-03-20 14:48:16,031] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 14:48:16,031] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 14:48:16,031] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 14:48:16,034] ERROR    | ❌ Помилка при отриманні підписки для користувача 6984063145: (sqlite3.OperationalError) no such column: subscriptions.expiration_date
+[SQL: SELECT subscriptions.id, subscriptions.user_id, subscriptions.status, subscriptions.expiration_date, subscriptions.invite_link 
+FROM subscriptions 
+WHERE subscriptions.user_id = ?]
+[parameters: (6984063145,)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-03-20 14:48:16,034] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 14:48:16,034] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 14:48:16,139] ERROR    | ❌ Помилка при відправленні інвойсу: Telegram server says - Bad Request: CURRENCY_INVALID
+[2025-03-20 14:48:16,313] INFO     | Update id=300195781 is handled. Duration 281 ms by bot id=7889364571
+[2025-03-20 14:48:37,837] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 14:48:37,837] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 14:48:37,837] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 14:48:37,838] ERROR    | ❌ Помилка при отриманні підписки для користувача 6984063145: (sqlite3.OperationalError) no such column: subscriptions.expiration_date
+[SQL: SELECT subscriptions.id, subscriptions.user_id, subscriptions.status, subscriptions.expiration_date, subscriptions.invite_link 
+FROM subscriptions 
+WHERE subscriptions.user_id = ?]
+[parameters: (6984063145,)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-03-20 14:48:37,838] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 14:48:37,838] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 14:48:37,947] ERROR    | ❌ Помилка при відправленні інвойсу: Telegram server says - Bad Request: CURRENCY_INVALID
+[2025-03-20 14:48:38,154] INFO     | Update id=300195782 is handled. Duration 329 ms by bot id=7889364571
+[2025-03-20 14:52:44,891] INFO     | Polling stopped
+[2025-03-20 14:52:45,152] INFO     | Планувальник зупинено
+[2025-03-20 14:52:45,152] INFO     | Scheduler has been shut down
+[2025-03-20 14:52:45,152] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:52:45,153] INFO     | Завершення роботи бота...
+[2025-03-20 14:53:28,221] INFO     | Запуск Telegram-бота...
+[2025-03-20 14:53:28,515] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 14:53:28,517] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 14:53:28,519] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 14:53:28,520] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 14:53:28,520] INFO     | Scheduler started
+[2025-03-20 14:53:28,520] INFO     | Планувальник задач запущено
+[2025-03-20 14:53:28,520] INFO     | Бот готовий до роботи!
+[2025-03-20 14:53:28,520] INFO     | Start polling
+[2025-03-20 14:53:28,559] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:54:32,917] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 14:54:33,075] INFO     | Update id=300195783 is handled. Duration 156 ms by bot id=7889364571
+[2025-03-20 14:54:34,985] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 14:54:35,182] INFO     | Update id=300195784 is handled. Duration 187 ms by bot id=7889364571
+[2025-03-20 14:54:36,318] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 14:54:36,318] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 14:54:36,318] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 14:54:36,321] ERROR    | ❌ Помилка при отриманні підписки для користувача 6984063145: (sqlite3.OperationalError) no such column: subscriptions.expiration_date
+[SQL: SELECT subscriptions.id, subscriptions.user_id, subscriptions.status, subscriptions.expiration_date, subscriptions.invite_link 
+FROM subscriptions 
+WHERE subscriptions.user_id = ?]
+[parameters: (6984063145,)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-03-20 14:54:36,321] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 14:54:36,322] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 14:54:36,371] ERROR    | ❌ Помилка при відправленні інвойсу: Telegram server says - Bad Request: CURRENCY_TOTAL_AMOUNT_INVALID
+[2025-03-20 14:54:36,482] INFO     | Update id=300195785 is handled. Duration 155 ms by bot id=7889364571
+[2025-03-20 14:54:54,685] INFO     | Polling stopped
+[2025-03-20 14:54:54,951] INFO     | Планувальник зупинено
+[2025-03-20 14:54:54,951] INFO     | Scheduler has been shut down
+[2025-03-20 14:54:54,951] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:54:54,952] INFO     | Завершення роботи бота...
+[2025-03-20 14:57:21,489] INFO     | Запуск Telegram-бота...
+[2025-03-20 14:57:21,784] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 14:57:21,787] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 14:57:21,789] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 14:57:21,790] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 14:57:21,790] INFO     | Scheduler started
+[2025-03-20 14:57:21,790] INFO     | Планувальник задач запущено
+[2025-03-20 14:57:21,790] INFO     | Бот готовий до роботи!
+[2025-03-20 14:57:21,790] INFO     | Start polling
+[2025-03-20 14:57:21,832] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:57:40,337] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 14:57:40,483] INFO     | Update id=300195786 is handled. Duration 157 ms by bot id=7889364571
+[2025-03-20 14:57:42,453] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 14:57:42,557] INFO     | Update id=300195787 is handled. Duration 94 ms by bot id=7889364571
+[2025-03-20 14:57:44,502] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 14:57:44,502] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 14:57:44,502] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 14:57:44,505] ERROR    | ❌ Помилка при отриманні підписки для користувача 6984063145: (sqlite3.OperationalError) no such column: subscriptions.expiration_date
+[SQL: SELECT subscriptions.id, subscriptions.user_id, subscriptions.status, subscriptions.expiration_date, subscriptions.invite_link 
+FROM subscriptions 
+WHERE subscriptions.user_id = ?]
+[parameters: (6984063145,)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-03-20 14:57:44,506] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 14:57:44,506] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 14:57:44,556] ERROR    | ❌ Помилка при відправленні інвойсу: Telegram server says - Bad Request: CURRENCY_TOTAL_AMOUNT_INVALID
+[2025-03-20 14:57:44,665] INFO     | Update id=300195788 is handled. Duration 157 ms by bot id=7889364571
+[2025-03-20 14:58:37,096] INFO     | Polling stopped
+[2025-03-20 14:58:37,363] INFO     | Планувальник зупинено
+[2025-03-20 14:58:37,363] INFO     | Scheduler has been shut down
+[2025-03-20 14:58:37,363] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 14:58:37,364] INFO     | Завершення роботи бота...
+[2025-03-20 15:08:24,162] INFO     | Запуск Telegram-бота...
+[2025-03-20 15:08:24,459] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 15:08:24,607] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 15:08:24,609] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 15:08:24,610] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 15:08:24,610] INFO     | Scheduler started
+[2025-03-20 15:08:24,610] INFO     | Планувальник задач запущено
+[2025-03-20 15:08:24,610] INFO     | Бот готовий до роботи!
+[2025-03-20 15:08:24,610] INFO     | Start polling
+[2025-03-20 15:08:24,651] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 15:08:51,774] INFO     | Polling stopped
+[2025-03-20 15:08:52,034] INFO     | Планувальник зупинено
+[2025-03-20 15:08:52,034] INFO     | Scheduler has been shut down
+[2025-03-20 15:08:52,034] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 15:08:52,035] INFO     | Завершення роботи бота...
+[2025-03-20 15:09:01,267] INFO     | Запуск Telegram-бота...
+[2025-03-20 15:09:01,559] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 15:09:01,561] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 15:09:01,563] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 15:09:01,564] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 15:09:01,564] INFO     | Scheduler started
+[2025-03-20 15:09:01,564] INFO     | Планувальник задач запущено
+[2025-03-20 15:09:01,564] INFO     | Бот готовий до роботи!
+[2025-03-20 15:09:01,564] INFO     | Start polling
+[2025-03-20 15:09:01,605] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 15:09:11,204] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 15:09:11,379] INFO     | Update id=300195789 is handled. Duration 172 ms by bot id=7889364571
+[2025-03-20 15:09:13,419] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 15:09:13,544] INFO     | Update id=300195790 is handled. Duration 125 ms by bot id=7889364571
+[2025-03-20 15:09:14,781] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 15:09:14,782] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 15:09:14,782] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 15:09:14,785] WARNING  | ⚠️ Підписка для користувача 6984063145 не знайдена
+[2025-03-20 15:09:14,785] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 15:09:14,785] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 15:09:14,851] ERROR    | ❌ Помилка при відправленні інвойсу: Telegram server says - Bad Request: CURRENCY_TOTAL_AMOUNT_INVALID
+[2025-03-20 15:09:14,995] INFO     | Update id=300195791 is handled. Duration 202 ms by bot id=7889364571
+[2025-03-20 15:12:54,767] INFO     | Polling stopped
+[2025-03-20 15:12:55,031] INFO     | Планувальник зупинено
+[2025-03-20 15:12:55,031] INFO     | Scheduler has been shut down
+[2025-03-20 15:12:55,031] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 15:12:55,032] INFO     | Завершення роботи бота...
+[2025-03-20 15:12:57,246] INFO     | Запуск Telegram-бота...
+[2025-03-20 15:12:57,551] INFO     | Вебхук видалено, переходимо до polling
+[2025-03-20 15:12:57,554] INFO     | Таблиці бази даних створено або оновлено
+[2025-03-20 15:12:57,556] INFO     | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-03-20 15:12:57,557] INFO     | Added job "remove_expired_users" to job store "default"
+[2025-03-20 15:12:57,557] INFO     | Scheduler started
+[2025-03-20 15:12:57,557] INFO     | Планувальник задач запущено
+[2025-03-20 15:12:57,557] INFO     | Бот готовий до роботи!
+[2025-03-20 15:12:57,557] INFO     | Start polling
+[2025-03-20 15:12:57,599] INFO     | Run polling for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 15:13:22,828] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 15:13:22,999] INFO     | Update id=300195792 is handled. Duration 172 ms by bot id=7889364571
+[2025-03-20 15:13:24,164] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 15:13:24,320] INFO     | Update id=300195793 is handled. Duration 156 ms by bot id=7889364571
+[2025-03-20 15:13:25,307] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 15:13:25,307] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 15:13:25,307] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 15:13:25,310] WARNING  | ⚠️ Підписка для користувача 6984063145 не знайдена
+[2025-03-20 15:13:25,310] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 15:13:25,310] INFO     | 🔎 Перевірка chat_id: 6984063145
+[2025-03-20 15:13:25,377] INFO     | 📩 Інвойс для користувача 7889364571 відправлений!
+[2025-03-20 15:13:25,432] INFO     | Update id=300195794 is handled. Duration 125 ms by bot id=7889364571
+[2025-03-20 15:15:09,032] INFO     | Update id=300195795 is handled. Duration 63 ms by bot id=7889364571
+[2025-03-20 15:15:10,997] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 15:15:10,997] INFO     | 🚀 Активація підписки для користувача 6984063145
+[2025-03-20 15:15:10,997] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 15:15:10,998] WARNING  | ⚠️ Підписка для користувача 6984063145 не знайдена
+[2025-03-20 15:15:10,998] INFO     | ➕ Створюємо підписку для користувача 6984063145
+[2025-03-20 15:15:11,044] INFO     | ✅ Підписка для користувача 6984063145 успішно створена
+[2025-03-20 15:15:11,132] INFO     | 🔗 Запрошення для користувача 6984063145 згенеровано: https://t.me/+p_-HMnpGyuMxNTMy
+[2025-03-20 15:15:11,173] INFO     | ✅ Підписка для користувача 6984063145 активована до 2025-03-21 13:15:11.045055
+[2025-03-20 15:15:11,302] INFO     | ✅ Оплата від користувача 6984063145 підтверджена, підписка активована!
+[2025-03-20 15:15:11,303] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 15:15:11,303] INFO     | Update id=300195796 is handled. Duration 312 ms by bot id=7889364571
+[2025-03-20 15:27:22,668] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 15:27:22,747] INFO     | Update id=300195797 is handled. Duration 77 ms by bot id=7889364571
+[2025-03-20 15:27:26,697] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 15:27:26,828] INFO     | Update id=300195798 is handled. Duration 139 ms by bot id=7889364571
+[2025-03-20 15:27:29,030] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 15:27:29,030] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 15:27:29,030] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 15:27:29,032] INFO     | ✅ Підписка для користувача 6984063145 активна: <Subscription(id=1, user_id=6984063145, status=active, expiration=2025-03-21 13:15:11.045055, invite_link=https://t.me/+p_-HMnpGyuMxNTMy)>
+[2025-03-20 15:27:29,472] INFO     | Update id=300195799 is handled. Duration 436 ms by bot id=7889364571
+[2025-03-20 15:27:29,473] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 15:29:00,623] INFO     | 📥 Отримана команда /start від Channel_News_PY
+[2025-03-20 15:29:00,709] INFO     | Update id=300195800 is handled. Duration 77 ms by bot id=7889364571
+[2025-03-20 15:29:02,517] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Розпочати'
+[2025-03-20 15:29:02,817] INFO     | Update id=300195801 is handled. Duration 297 ms by bot id=7889364571
+[2025-03-20 15:29:04,252] INFO     | ⚙️ Користувач Channel_News_PY натиснув кнопку 'Підписатися'
+[2025-03-20 15:29:04,253] INFO     | 📥 Відкриття нової сесії з базою даних
+[2025-03-20 15:29:04,253] INFO     | 🔎 Отримуємо підписку для користувача 6984063145
+[2025-03-20 15:29:04,253] INFO     | ✅ Підписка для користувача 6984063145 активна: <Subscription(id=1, user_id=6984063145, status=active, expiration=2025-03-21 13:15:11.045055, invite_link=https://t.me/+p_-HMnpGyuMxNTMy)>
+[2025-03-20 15:29:04,562] INFO     | Update id=300195802 is handled. Duration 313 ms by bot id=7889364571
+[2025-03-20 15:29:04,562] INFO     | 📤 Сесія з базою даних закрита
+[2025-03-20 15:36:43,760] INFO     | Polling stopped
+[2025-03-20 15:36:44,003] INFO     | Планувальник зупинено
+[2025-03-20 15:36:44,003] INFO     | Scheduler has been shut down
+[2025-03-20 15:36:44,003] INFO     | Polling stopped for bot @ukrainetesting_bot id=7889364571 - 'ukrainetestbot'
+[2025-03-20 15:36:44,004] INFO     | Завершення роботи бота...

@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальне середовище
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Логи та налагодження
+logs/
+*.log
+
+# Файл середовища (тут можуть бути API-ключі, токени)
+.env
+
+# Системні файли
+.DS_Store
+Thumbs.db
